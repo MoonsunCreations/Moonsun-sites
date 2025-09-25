@@ -1,0 +1,26 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(to right, #1e3c72, #2a5298);
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+header, section, footer {
+  margin-bottom: 40px;
+}
+
+a {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  background: #ffcc00;
+  color: black;
+  text-decoration: none;
+  border-radius: 8px;
+}
+
+iframe {
+  border: none;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
